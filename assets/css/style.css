@@ -385,6 +385,7 @@ button {
   margin: 1rem 2rem 0 2rem;
   border-radius: 0 0 0.2rem 0;
 }
+
 .a {
   margin: 1rem 10rem 1rem -4.4rem;
 }
@@ -662,13 +663,9 @@ button {
   margin: 1rem 0 0 0;
 }
 
-.ck {
-  color: #27d230e8;
-}
+.ck { color: #27d230e8; }
 
-.tm {
-  color: #e21e1ee8;
-}
+.tm { color: #e21e1ee8; }
 
 .add p {
   color: var(--font-color-3);
@@ -877,13 +874,9 @@ button {
   font-size: 1.1rem;
 }
 
-.inp-b {
-  margin: 0 1rem 0 7rem;
-}
+.inp-b { margin: 0 1rem 0 7rem; }
 
-.inp-a {
-  margin: 1px -62px 0.1rem 1rem;
-}
+.inp-a { margin: 1px -62px 0.1rem 1rem; }
 
 .inp-a, .inp-b {
   color: var(--font-color-1);
